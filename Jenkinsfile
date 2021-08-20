@@ -13,9 +13,9 @@ pipeline{
  
             }
         }
-        stage('stage-2'){
+        stage('stage-3'){
             steps{
-            echo 'stage2 is done'
+            echo 'stage3 is done'
  
             }
         }
