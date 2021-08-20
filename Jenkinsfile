@@ -1,4 +1,3 @@
-************* Pipeline jetkin *******************
 pipeline{
     agent any
     stages{
