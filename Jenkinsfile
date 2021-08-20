@@ -13,6 +13,12 @@ pipeline{
  
             }
         }
+        stage('stage-2'){
+            steps{
+            echo 'stage2 is done'
+ 
+            }
+        }
 
     }
 }
